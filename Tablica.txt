@@ -1,0 +1,334 @@
+	<html>
+<head></head> 
+<body>
+
+<TABLE BORDER=1PX WIDTH =1000 height =50 BORDERCOLOR="black BGCOLOR="black>
+
+<TR ALIGN="CENTER" BGCOLOR="green>
+<TH> A
+<TH> B
+</TR>
+<TR ALIGN="CENTER">
+<TD ALIGN="CENTER" BGCOLOR="white"> 
+<TD> 1
+<TD> 2
+<TD> 3
+<TD> 4
+<TD> 5
+<TD> 6
+<TD> 7
+<TD> 8
+<TD> 9
+<TD> 10
+</TR>
+
+<TR ALIGN="CENTER"> 
+<TD BGCOLOR="blue"> 1
+<TD ALIGN="RIGHT"> 1
+<TD ALIGN="RIGHT"> 2
+<TD ALIGN="RIGHT"> 3
+<TD ALIGN="RIGHT"> 4
+<TD ALIGN="RIGHT"> 5
+<TD ALIGN="RIGHT"> 6
+<TD ALIGN="RIGHT"> 7
+<TD ALIGN="RIGHT"> 8
+<TD ALIGN="RIGHT"> 9
+<TD ALIGN="RIGHT"> 10
+</TR>
+
+<TR ALIGN="CENTER"> 
+<TD BGCOLOR="blue"> 2
+<TD ALIGN="RIGHT"> 2
+<TD ALIGN="RIGHT"> 4
+<TD ALIGN="RIGHT"> 6
+<TD ALIGN="RIGHT"> 8
+<TD ALIGN="RIGHT"> 10
+<TD ALIGN="RIGHT"> 12
+<TD ALIGN="RIGHT"> 14
+<TD ALIGN="RIGHT"> 16
+<TD ALIGN="RIGHT"> 18
+<TD ALIGN="RIGHT"> 20
+</TR>
+
+<TR ALIGN="CENTER"> 
+<TD BGCOLOR="blue"> 3
+<TD ALIGN="RIGHT"> 3
+<TD ALIGN="RIGHT"> 6
+<TD ALIGN="RIGHT"> 9
+<TD ALIGN="RIGHT"> 12
+<TD ALIGN="RIGHT"> 15
+<TD ALIGN="RIGHT"> 18
+<TD ALIGN="RIGHT"> 21
+<TD ALIGN="RIGHT"> 24
+<TD ALIGN="RIGHT"> 27
+<TD ALIGN="RIGHT"> 30
+</TR>
+
+<TR ALIGN="CENTER"> 
+<TD BGCOLOR="blue"> 4
+<TD ALIGN="RIGHT"> 4
+<TD ALIGN="RIGHT"> 8
+<TD ALIGN="RIGHT"> 12
+<TD ALIGN="RIGHT"> 16
+<TD ALIGN="RIGHT"> 20
+<TD ALIGN="RIGHT"> 24
+<TD ALIGN="RIGHT"> 28
+<TD ALIGN="RIGHT"> 32
+<TD ALIGN="RIGHT"> 36
+<TD ALIGN="RIGHT"> 40
+</TR>
+
+<TR ALIGN="CENTER"> 
+<TD BGCOLOR="blue"> 5
+<TD ALIGN="RIGHT"> 5
+<TD ALIGN="RIGHT"> 10
+<TD ALIGN="RIGHT"> 15
+<TD ALIGN="RIGHT"> 20
+<TD ALIGN="RIGHT"> 25
+<TD ALIGN="RIGHT"> 30
+<TD ALIGN="RIGHT"> 35
+<TD ALIGN="RIGHT"> 40
+<TD ALIGN="RIGHT"> 45
+<TD ALIGN="RIGHT"> 50
+</TR>
+
+<TR ALIGN="CENTER"> 
+<TD BGCOLOR="blue"> 6
+<TD ALIGN="RIGHT"> 6
+<TD ALIGN="RIGHT"> 12
+<TD ALIGN="RIGHT"> 18
+<TD ALIGN="RIGHT"> 24
+<TD ALIGN="RIGHT"> 30
+<TD ALIGN="RIGHT"> 36
+<TD ALIGN="RIGHT"> 42
+<TD ALIGN="RIGHT"> 48
+<TD ALIGN="RIGHT"> 54
+<TD ALIGN="RIGHT"> 60
+</TR>
+
+<TR ALIGN="CENTER"> 
+<TD BGCOLOR="blue"> 7
+<TD ALIGN="RIGHT"> 7
+<TD ALIGN="RIGHT"> 14
+<TD ALIGN="RIGHT"> 21
+<TD ALIGN="RIGHT"> 28
+<TD ALIGN="RIGHT"> 35
+<TD ALIGN="RIGHT"> 42
+<TD ALIGN="RIGHT"> 49
+<TD ALIGN="RIGHT"> 56
+<TD ALIGN="RIGHT"> 63
+<TD ALIGN="RIGHT"> 70
+</TR>
+
+<TR ALIGN="CENTER"> 
+<TD BGCOLOR="blue"> 8
+<TD ALIGN="RIGHT"> 8
+<TD ALIGN="RIGHT"> 16
+<TD ALIGN="RIGHT"> 24
+<TD ALIGN="RIGHT"> 32
+<TD ALIGN="RIGHT"> 40
+<TD ALIGN="RIGHT"> 48
+<TD ALIGN="RIGHT"> 56
+<TD ALIGN="RIGHT"> 64
+<TD ALIGN="RIGHT"> 72
+<TD ALIGN="RIGHT"> 80
+</TR>
+
+<TR ALIGN="CENTER"> 
+<TD BGCOLOR="blue"> 9
+<TD ALIGN="RIGHT"> 9
+<TD ALIGN="RIGHT"> 18
+<TD ALIGN="RIGHT"> 27
+<TD ALIGN="RIGHT"> 36
+<TD ALIGN="RIGHT"> 45
+<TD ALIGN="RIGHT"> 54
+<TD ALIGN="RIGHT"> 63
+<TD ALIGN="RIGHT"> 72
+<TD ALIGN="RIGHT"> 81
+<TD ALIGN="RIGHT"> 90
+</TR>
+
+<TR ALIGN="CENTER"> 
+<TD BGCOLOR="blue"> 10
+<TD ALIGN="RIGHT"> 10
+<TD ALIGN="RIGHT"> 20
+<TD ALIGN="RIGHT"> 30
+<TD ALIGN="RIGHT"> 40
+<TD ALIGN="RIGHT"> 50
+<TD ALIGN="RIGHT"> 60
+<TD ALIGN="RIGHT"> 70
+<TD ALIGN="RIGHT"> 80
+<TD ALIGN="RIGHT"> 90
+<TD ALIGN="RIGHT"> 100
+</TR>
+
+<TR>
+<TD colspan = "1" ALIGN="CENTER"> </TD>
+<TD colspan = "2" ALIGN="CENTER" BGCOLOR="yellow"> 165 </TD>
+<TD colspan = "2" ALIGN="CENTER" BGCOLOR="orange"> 385 </TD>
+<TD colspan = "2" ALIGN="CENTER" BGCOLOR="yellow"> 605 </TD>
+<TD colspan = "2" ALIGN="CENTER" BGCOLOR="orange"> 825 </TD>
+<TD colspan = "2" ALIGN="CENTER" BGCOLOR="yellow"> 1045 </TD>
+</TR> 
+
+<TR>
+<TD colspan = "1" ALIGN="CENTER"> </TD>
+<TD colspan = "10" ALIGN="CENTER" BGCOLOR="red"> 3025 </TD>
+</TR> 
+</TABLE>
+</body>
+</html>               
+
+
+
+
+<html>
+<head></head> 
+<body>
+
+<TABLE BORDER=1PX WIDTH =100 height =50 BORDERCOLOR="#4f41f4 BGCOLOR="#55f441>
+<TR ALIGN="CENTER" BGCOLOR="#FAF54C>
+<TD colspan = "2"> ASCII TABLE </TD>
+</TR> 
+
+<TR ALIGN="CENTER">
+<TH> DEC
+<TH> SYMBOL
+</TR>
+
+
+<TR> 
+<TD ALIGN="right" TD BGCOLOR="white"> 65 
+<TD BGCOLOR="white"> &#65 
+</TR>
+
+<TR>
+<TD ALIGN="right"> 66
+<TD ALIGN="left"> &#66
+</TR>
+
+<TR>
+<TD ALIGN="right"> 67
+<TD ALIGN="left"> &#67
+</TR>
+
+<TR>
+<TD ALIGN="right" TD BGCOLOR="white">  68
+<TD BGCOLOR="white">  &#68
+</TR>
+
+<TR>
+<TD ALIGN="right" TD BGCOLOR="red">  69
+<TD BGCOLOR="red"> &#69
+</TR>
+
+<TR>
+<TD ALIGN="right"> 70
+<TD ALIGN="left"> &#70
+</TR>
+
+<TR>
+<TD ALIGN="right"> 71
+<TD ALIGN="left"> &#71
+</TR>
+
+<TR>
+<TD ALIGN="right" TD BGCOLOR="red">  72
+<TD BGCOLOR="red"> &#72
+</TR>
+
+<TR>
+<TD ALIGN="right" TD BGCOLOR="green">  73
+<TD BGCOLOR="green"> &#73
+</TR>
+
+<TR>
+<TD ALIGN="right"> 74
+<TD ALIGN="left"> &#74
+</TR>
+
+<TR>
+<TD ALIGN="right" TD BGCOLOR="green">  75
+<TD BGCOLOR="green"> &#75
+</TR>
+
+<TR>
+<TD ALIGN="right" TD BGCOLOR="green">  76
+<TD BGCOLOR="green"> &#76
+</TR>
+
+<TR>
+<TD ALIGN="right"> 77
+<TD ALIGN="left"> &#77
+</TR>
+
+<TR>
+<TD ALIGN="right" TD BGCOLOR="red">  78
+<TD BGCOLOR="red"> &#78
+</TR>
+
+<TR>
+<TD ALIGN="right" TD BGCOLOR="green">  79
+<TD BGCOLOR="green"> &#78
+</TR>
+
+<TR>
+<TD ALIGN="right" TD BGCOLOR="white">  80
+<TD BGCOLOR="white"> &#80
+</TR>
+
+<TR>
+<TD ALIGN="right"> 81
+<TD ALIGN="left"> &#81
+</TR>
+
+<TR>
+<TD ALIGN="right" TD BGCOLOR="white">  82
+<TD BGCOLOR="white">  &#82
+</TR>
+
+<TR>
+<TD ALIGN="right"> 83
+<TD ALIGN="left"> &#83
+</TR>
+
+<TR>
+<TD ALIGN="right" TD BGCOLOR="white">  84
+<TD BGCOLOR="white"> &#84
+</TR>
+
+<TR>
+<TD ALIGN="right" TD BGCOLOR="green">  85
+<TD BGCOLOR="green"> &#85
+</TR>
+
+<TR>
+<TD ALIGN="right" TD BGCOLOR="red">  86
+<TD BGCOLOR="red"> &#86
+</TR>
+
+<TR>
+<TD ALIGN="right"> 87
+<TD ALIGN="left"> &#87
+</TR>
+
+<TR>
+<TD ALIGN="right"> 88
+<TD ALIGN="left"> &#88
+</TR>
+
+<TR>
+<TD ALIGN="right" TD BGCOLOR="red">  89
+<TD BGCOLOR="red"> &#89
+</TR>
+
+<TR>
+<TD ALIGN="right"> 90
+<TD ALIGN="left"> &#90
+</TR>
+
+
+
+</TABLE>
+</body>
+</html>                                                                             
